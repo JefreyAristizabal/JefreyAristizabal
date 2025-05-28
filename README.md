@@ -38,12 +38,16 @@
 ---
 
 ### 📈 GitHub Stats
-
+<div>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JefreyAristizabal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-<p align="left">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JefreyAristizabal&theme=tokyonight" alt="Streak Stats" />
+</p>
+</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefreyAristizabal&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
