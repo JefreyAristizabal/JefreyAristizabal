@@ -38,7 +38,7 @@
 ---
 
 ### 📈 GitHub Stats
-<div>
+<div style="display: flex;">
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=JefreyAristizabal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
