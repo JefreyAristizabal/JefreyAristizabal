@@ -39,10 +39,10 @@
 
 ### 📈 GitHub Stats
 <div>
-<p align="left">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=JefreyAristizabal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-<p align="right">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JefreyAristizabal&theme=tokyonight" alt="Streak Stats" />
 </p>
 </div>
