@@ -33,7 +33,7 @@
 - `MySQL`, `MongoDB`
 - `MySQL Workbench`, `MongoDB Compass`, `MongoDB Atlas`
 - `Laragon`, `XAMPP`
-- `Visual Studio`, `Visual Studio Code`,`IntelliJ IDEA`
+- `Visual Studio`, `Visual Studio Code`, `IntelliJ IDEA`
 
 ---
 
