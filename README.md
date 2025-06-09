@@ -51,7 +51,6 @@
 ### 🌐 Let's Connect
 
 - 📍 Bello, Antioquia, Colombia  
-- 📧 jefreyaristizabalpreciado@gmail.com  
 - 🔗 [GitHub Profile](https://github.com/JefreyAristizabal)
 
 ---
