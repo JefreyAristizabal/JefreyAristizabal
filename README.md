@@ -11,8 +11,8 @@
 
 - 🎓 I'm currently studying **Software Development** at **SENA (CTGI center)**.
 - 💻 I work with both **Front-End** and **Back-End** technologies.
-- 🌱 Currently learning more about **Java, C#, and software architecture**.
-- 💬 Ask me about **Laravel, Express.js, React.js, Tailwind, or Bootstrap**.
+- 🌱 Currently learning more about **React.js, Angular, and software architecture**.
+- 💬 Ask me about **Laravel, Express.js, Tailwind, or Bootstrap**.
 - 📫 Contact me at **jefreyaristizabalpreciado@gmail.com**
 
 ---
@@ -21,7 +21,7 @@
 
 #### 🧠 Languages & Frameworks:
 - **Front-End**:  
-  `HTML`, `CSS`, `Bootstrap`, `TailwindCSS`, `JavaScript`, `React.js`
+  `HTML`, `CSS`, `Bootstrap`, `TailwindCSS`, `JavaScript`, `React.js`, `Angular`
 
 - **Back-End**:  
   `Node.js`, `Express`, `PHP`, `Laravel`, `Python (Django)`
