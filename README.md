@@ -21,7 +21,7 @@
 
 #### 🧠 Languages & Frameworks:
 - **Front-End**:  
-  `HTML`, `CSS`, `Bootstrap`, `TailwindCSS`, `JavaScript`, `React.js`, `Angular`
+  `HTML`, `CSS`, `Bootstrap`, `TailwindCSS`, `JavaScript`, `React.js`, `TypeScript`, `Angular`
 
 - **Back-End**:  
   `Node.js`, `Express`, `PHP`, `Laravel`, `Python (Django)`
